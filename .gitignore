@@ -1,5 +1,5 @@
 venv
-images
+
 .python_history# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -138,7 +138,3 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
-
-
-#png
-#*.png
