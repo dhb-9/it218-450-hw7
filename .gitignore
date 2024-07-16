@@ -138,3 +138,7 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
+
+
+#png
+*.png
